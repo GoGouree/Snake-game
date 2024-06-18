@@ -1,5 +1,4 @@
 // script.js
-
 document.addEventListener('DOMContentLoaded', (event) => {
   const gameArea = document.getElementById('gameArea');
   const gameWidth = gameArea.offsetWidth;
